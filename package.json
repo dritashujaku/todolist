@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dritashujaku/todolist/issues"
   },
-  "homepage": "https://github.com/dritashujaku/todolist#readme"
+  "homepage": "https://github.com/dritashujaku/todolist#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
